@@ -194,6 +194,12 @@ print("The stock should open: {} from the previous open.".format(np.round(price_
 
 <img width="482" alt="image" src="https://github.com/sgummal2/Stock-Analysis-And-Movement-Prediction/assets/140002588/24d1d60a-4820-49bc-ab6e-2cbb50b034b4">
 
+## Output:
+- Trained and Tested on around 1900 records by splitting them in optimal ratio.
+- The opening prices of stocks correctly matched with predicted values nearly 60% of the time.
+- The semantic comparison between actual and predicted prices is depicted using matplotlib tools in python.
+- The current day opening price of the stock as well as DOW JONES are predicted using customised headlines
+
 ## Output At Server:
 
 <img width="607" alt="Screenshot 2023-08-30 181021" src="https://github.com/sgummal2/Stock-Analysis-And-Movement-Prediction/assets/140002588/15b0c29d-7b78-42b3-a952-0b6d29290511">
